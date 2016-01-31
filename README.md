@@ -22,3 +22,4 @@ You should create one R script called run_analysis.R that does the following. 1.
 ###Additional Information
 
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+features_updated.txt file has all the features in the resulting file.
